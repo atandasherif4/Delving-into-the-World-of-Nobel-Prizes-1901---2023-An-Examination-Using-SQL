@@ -191,7 +191,7 @@ I. Pattern Matching:
 
 J. Mortality Rate Analysis
 
-(25) Provide the percentage of the deceased laureates.(Note:This calculation is based on the dataset used in this case study)
+(25) Provide the percentage of the deceased laureates.(Note that this calculation is based on the dataset used in this case study)
 
 ![](Question_25.png)
 
