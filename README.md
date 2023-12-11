@@ -71,6 +71,8 @@ A. Extracting Basic Information:
 
 ![](Question_2.png)
 
+--Note that org in the gender column represents organization.
+
 (3) List the distinct categories (e.g., physics, chemistry, peace) of Nobel Prizes.
 
 ![](Question_3.png)
@@ -106,7 +108,7 @@ C. Prize Category-based Analysis:
 ![](Question_9.png)
 
 
-D. Country-based Analysis:
+D. Country-based Analysis:(Note that this was calculated based on the country the laureates were born)
 
 (10) List the top 10 countries with the most Nobel laureates.
 
@@ -125,7 +127,7 @@ E. Gender-based Analysis:
 ![](Question_12.png)
 
 
-F. Age-based Analysis: Note that this section was performed based on the laureates' year of birth and year of award.
+F. Age-based Analysis: (Note that this section was performed based on the laureates' year of birth and year of award.)
 
 (13) Determine the average age of Nobel laureates.
 
