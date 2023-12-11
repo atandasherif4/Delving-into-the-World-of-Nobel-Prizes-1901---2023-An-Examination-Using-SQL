@@ -1,6 +1,6 @@
 # Delving-into-the-World-of-Nobel-Prizes(1901-2023):An-Examination-Using-SQL
 
-*Note: The SQL code for this project can be found above named **Nobel_Laureates***
+*Note: The SQL code for this project can be found above named **Nobel_Laureates.sql***
 
 ![](Nobel_Laureate_Picture.jpg)
 
@@ -59,7 +59,7 @@ The Nobel laureates datasets contains the following columns:
 
 ANALYSIS & QUESTIONS 
 
-*Note: The SQL code for this project can be found above named **Nobel_Laureates***
+*Note: The SQL code for this project can be found above named **Nobel_Laureates.sql***
 
 A. Extracting Basic Information:
 
@@ -199,4 +199,4 @@ In alignment with the project's objectives, it has functioned as a magnifying le
 
 Also, this website[Click_here.](https://www.nobelprize.org/prizes/facts/nobel-prize-facts/) served as a guide while performing the analysis.
 
-*Note: The SQL code for this project can be found above named **Nobel_Laureates***
+*Note: The SQL code for this project can be found above named **Nobel_Laureates.sql***
