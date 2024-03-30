@@ -1,4 +1,4 @@
-# Delving-into-the-World-of-Nobel-Prizes(1901-2023):An-Examination-Using-SQL
+# DELVING INTO THE WORLD OF NOBEL PRIZES (1901 – 2023): AN EXAMINATION USING SQL
 
 *Note: The SQL code for this project can be found above named **Nobel_Laureates.sql***
 
