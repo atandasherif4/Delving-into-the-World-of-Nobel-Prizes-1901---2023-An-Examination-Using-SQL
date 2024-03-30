@@ -4,6 +4,7 @@
 
 ![](Nobel_Laureate_Picture.jpg)
 
+
 ## ABOUT THE PROJECT
 
 This project is centred on Nobel laureates' datasets, and my primary goal is to enhance my proficiency in comprehending and responding 
@@ -12,6 +13,7 @@ to questions to provide the expected answer by writing SQL queries.
 This project serves as a dynamic platform to elevate my SQL skills, allowing me to navigate the complexities of data analysis.
 
 By delving into the rich dataset through data exploration and analysis, I aim to uncover hidden patterns and insightful connections within the Nobel laureates' landscape (this includes the individuals themselves, their fields of expertise, their contributions to society, and the various institutions and organisations associated with them), fostering a deeper understanding of their diverse experiences and contributions.
+
 
 ## DATASET
 
